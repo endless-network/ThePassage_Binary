@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.passage</id>
+  <name>passage</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <developer_name>Endless Network</developer_name>
+  <summary>passage</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <description>
+    <p>A game where you learn programming by hacking different elements.</p>
+  </description>
+  <releases>
+    <release version="1.0" date="2019-04-03"/>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img1.jpg</image>
+      <caption>Code your way</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img2.jpg</image>
+      <caption>Code your way </caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img3.jpg</image>
+      <caption>Code your way</caption>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+  </content_rating>
+  <update_contact>nan_at_endlessnetwork.com</update_contact>
+</component>
