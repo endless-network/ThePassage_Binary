@@ -10,6 +10,10 @@
   <description>
     <p>You've landed on a mysterious planet with one mission; find the secret map to locate the hidden bunker. Can you find it? Hack the world to cross perilous lands and the obstacles within. Play to find out if can outsmart the passage.</p>
   </description>
+  <categories>
+    <category>LearnToCode</category>
+    <category>Game</category>
+  </categories>
   <releases>
     <release version="1.0" date="2019-04-03"/>
   </releases>
