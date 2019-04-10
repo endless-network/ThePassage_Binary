@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.endlessnetwork.passage</id>
-  <name>passage</name>
+  <name>The Passage</name>
   <project_license>LicenseRef-proprietary</project_license>
-  <developer_name>Endless Network</developer_name>
+  <developer_name>Endless Studios</developer_name>
   <summary>Hack your way through this side scrolling action adventure shooting game</summary>
   <url type="homepage">http://thethirdterminal.com/</url>
   <metadata_license>CC0-1.0</metadata_license>
@@ -19,23 +19,23 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img3.jpg</image>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/P5.jpg</image>
       <caption> </caption>
     </screenshot>
     <screenshot>
-      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img2.jpg</image>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/P4.jpg</image>
       <caption>  </caption>
     </screenshot>
     <screenshot>
-      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/passageSS4.jpg</image>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/P3.jpg</image>
       <caption> </caption>
     </screenshot>
      <screenshot>
-      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/img1.jpg</image>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/P2.jpg</image>
       <caption> </caption>
     </screenshot>
      <screenshot>
-      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/passageSS5.jpg</image>
+      <image>https://github.com/endless-network/ThePassage_Binary/raw/master/P1.jpg</image>
       <caption> </caption>
     </screenshot>
   </screenshots>
