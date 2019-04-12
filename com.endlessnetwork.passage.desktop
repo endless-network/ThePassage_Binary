@@ -1,9 +1,8 @@
 [Desktop Entry]
-Name=passage
-Comment=A game where you learn programming by hacking different elements.
+Name=The Passage
+Comment=Hack your way through this side scrolling action adventure shooting game
 Exec=com.endlessnetwork.passage.sh
 Icon=com.endlessnetwork.passage
 Terminal=false
 Type=Application
-Categories=Game;X-LearnToCode;
-Name[en_US]=com.endlessnetwork.passage
+Categories=Game;
