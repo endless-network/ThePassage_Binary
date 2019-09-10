@@ -5,7 +5,7 @@
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Endless Studios</developer_name>
   <summary>Hack your way through this side scrolling action adventure shooting game</summary>
-  <url type="homepage">http://thethirdterminal.com/</url>
+  <url type="homepage">https://terminaltwo.com</url>
   <metadata_license>CC0-1.0</metadata_license>
   <description>
     <p>You've landed on a mysterious planet with one mission; find the secret map to locate the hidden bunker. Can you find it? Hack the world to cross perilous lands and the obstacles within. Play to find out if can outsmart the passage.</p>
@@ -15,7 +15,7 @@
     <category>Game</category>
   </categories>
   <releases>
-    <release version="1.0" date="2019-04-03"/>
+    <release version="1.34" date="2019-09-09"/>
   </releases>
   <screenshots>
     <screenshot type="default">
