@@ -4,14 +4,17 @@
   <name>The Passage</name>
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Endless Studios</developer_name>
-  <summary>Hack your way through this side scrolling action adventure shooting game</summary>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
+  <summary>Hack your way through this side-scrolling action adventure shooting game</summary>
   <url type="homepage">https://terminaltwo.com</url>
   <metadata_license>CC0-1.0</metadata_license>
   <description>
     <p>You've landed on a mysterious planet with one mission; find the secret map to locate the hidden bunker. Can you find it? Hack the world to cross perilous lands and the obstacles within. Play to find out if can outsmart the passage.</p>
   </description>
+  <launchable type="desktop-id">com.endlessnetwork.passage.desktop</launchable>
   <categories>
-    <category>LearnToCode</category>
     <category>Game</category>
     <category>Education</category>
   </categories>
@@ -44,5 +47,4 @@
     <content_attribute id="violence-cartoon">moderate</content_attribute>
     <content_attribute id="violence-fantasy">moderate</content_attribute>
   </content_rating>
-  <update_contact>nan_at_endlessnetwork.com</update_contact>
 </component>

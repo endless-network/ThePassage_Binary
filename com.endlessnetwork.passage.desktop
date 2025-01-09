@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=The Passage
-Comment=Hack your way through this side scrolling action adventure shooting game
+Comment=Hack your way through this side-scrolling action adventure shooting game
 Exec=com.endlessnetwork.passage.sh
 Icon=com.endlessnetwork.passage
 Terminal=false
