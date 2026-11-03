@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.endlessnetwork.passage</id>
   <name>The Passage</name>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/ThePassage_Binary/raw/refs/heads/master/LICENSE</project_license>
   <developer_name>Endless Studios</developer_name>
   <developer id="com.endlessnetwork">
     <name>Endless Studios</name>
